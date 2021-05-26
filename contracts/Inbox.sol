@@ -13,3 +13,6 @@ contract Inbox {
         message = newMessage;
     }
 }
+
+// Rinkeby
+// https://rinkeby.infura.io/v3/6bce40b849a2448b90206225ba7bd4f6
